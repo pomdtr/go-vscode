@@ -10,8 +10,8 @@ import (
 
 	_ "embed"
 
-	"github.com/progrium/go-vscode/internal/zipfs"
-	"github.com/progrium/go-vscode/product"
+	"github.com/pomdtr/go-vscode/internal/zipfs"
+	"github.com/pomdtr/go-vscode/product"
 	"golang.org/x/net/websocket"
 	"tractor.dev/toolkit-go/duplex/codec"
 	"tractor.dev/toolkit-go/duplex/fn"

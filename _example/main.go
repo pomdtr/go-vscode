@@ -8,8 +8,8 @@ import (
 	"os/exec"
 
 	"github.com/creack/pty"
-	"github.com/progrium/go-vscode"
-	"github.com/progrium/go-vscode/product"
+	"github.com/pomdtr/go-vscode"
+	"github.com/pomdtr/go-vscode/product"
 	"tractor.dev/toolkit-go/engine/fs/osfs"
 	"tractor.dev/toolkit-go/engine/fs/workingpathfs"
 )

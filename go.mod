@@ -1,4 +1,4 @@
-module github.com/progrium/go-vscode
+module github.com/pomdtr/go-vscode
 
 go 1.22.1
 
